@@ -1,0 +1,36 @@
+{
+  "login":[{
+   "name":"pooja",
+   "password":"poo123"
+  }],
+  "restaurant": [
+    {
+      "id": "1",
+      "name": "Pizza hut",
+      "address": "Noida",
+      "rating": "4.5",
+      "email": "pizzahut@test.com"
+    },
+    {
+      "name": "Mcdonald",
+      "email": "mcdonald@test.com",
+      "rating": "4.5",
+      "address": "Delhi",
+      "id": "2"
+    },
+    {
+      "name": "BBQ",
+      "email": "bbqnation@test.com",
+      "rating": "4",
+      "address": "Mumbai",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "name": "Dominoz",
+      "email": "dominoz@test.com",
+      "rating": "5",
+      "address": "Mumbai"
+    }
+  ]
+}
